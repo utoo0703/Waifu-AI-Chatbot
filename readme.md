@@ -3,6 +3,10 @@
 
 This project is an interactive voice-based application that generates random descriptions for anime characters using the Mistral model from HuggingFace. The application takes user input via speech, processes it, and generates detailed descriptions based on predefined options and user-specified features.
 
+## Demo Video
+[![Anime Description Generator Demo]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg](https://img.youtube.com/vi/NsUrk8be4s4/hqdefault.jpg))](https://www.youtube.com/watch?v=NsUrk8be4s4)
+
+
 ## Features
 
 - **Voice Interaction:** Utilizes speech recognition to take user input and text-to-speech to provide responses.
